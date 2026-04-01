@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE cardapio SYSTEM "definicoes.dtd">
+
+
+
+
+    <cardapio>
+
+
+
+
+        <prato id="p001">
+            <nome>arroz de leite com paçoca</nome>
+            <descricao>um  arroz tradicional com leite e para acompalhar uma carne bovina do tipo paçoca</descricao>
+            <ingredientes>
+                <ingrediente>arroz</ingrediente>
+                <ingrediente>Carne seca</ingrediente>
+                <ingrediente>leite</ingrediente>
+            </ingredientes>
+            <preco moeda="BRL">R$ 20,00</preco>
+            <calorias>200</calorias>
+            <tempoPreparo>30 min</tempoPreparo>
+        </prato>
+
+
+
+
+        <prato id="p002">
+            <nome>bolo de ovos</nome>
+            <descricao>um bolo tradicional de ovos</descricao>
+            <ingredientes>
+                <ingrediente>ovos</ingrediente>
+                <ingrediente>açúcar</ingrediente>
+                <ingrediente>farinha</ingrediente>
+                <ingrediente>leite</ingrediente>
+            </ingredientes>
+            <preco moeda="BRL">R$ 8,00</preco>
+            <calorias>900</calorias>
+            <tempoPreparo>30 min</tempoPreparo>
+        </prato>
+
+
+
+
+        <prato id="p003">
+            <nome>bolo de chocolate</nome>
+            <descricao>um bolo tradicional de chocolate</descricao>
+            <ingredientes>
+                <ingrediente>ovos</ingrediente>
+                <ingrediente>açúcar</ingrediente>
+                <ingrediente>farinha</ingrediente>
+                <ingrediente>leite</ingrediente>
+                <ingrediente>chocolate</ingrediente>
+            </ingredientes>
+            <preco moeda="BRL">R$ 8,00</preco>
+            <calorias>900</calorias>
+            <tempoPreparo>30 min</tempoPreparo>
+        </prato>
+
+
+
+
+        <prato id="p004">
+            <nome>tapioca com coco</nome>
+            <descricao>tapioca com coco molhado</descricao>
+            <ingredientes>
+                <ingrediente>goma</ingrediente>
+                <ingrediente>coco ralado</ingrediente>
+                <ingrediente>leite de coco</ingrediente>
+                <ingrediente>manteiga</ingrediente>
+            </ingredientes>
+            <preco moeda="BRL">R$ 9,00</preco>
+            <calorias>900</calorias>
+            <tempoPreparo>20 min</tempoPreparo>
+        </prato>
+   
+        <prato id="p005">
+            <nome>bolo de cenoura</nome>
+            <descricao>delicia , um bolo de cenoura</descricao>
+            <ingredientes>
+                <ingrediente>ovos</ingrediente>
+                <ingrediente>açúcar</ingrediente>
+                <ingrediente>farinha</ingrediente>
+                <ingrediente>leite</ingrediente>
+                <ingrediente>chocolate</ingrediente>
+                <ingrediente>cenoura</ingrediente>
+            </ingredientes>
+            <preco moeda="BRL">R$ 8,00</preco>
+            <calorias>900</calorias>
+            <tempoPreparo>30 min</tempoPreparo>
+        </prato>
+    </cardapio>
+
+

@@ -1,0 +1,42 @@
+{
+    "cardapio": {
+      "prato": [
+        {
+          "nome": "Cachorro-Quente com Purê",
+          "descricao": "O clássico polêmico que vale por uma refeição e um treino de crossfit",
+          "ingredientes": {
+            "ingrediente": ["Salsicha flutuante", "Purê de batata elástico", "Batata palha infinita", "Milho de lata"]
+          },
+          "preco": 12.00,
+          "calorias": 1500
+        },
+        {
+          "nome": "Gelatina Colorida de Camadas",
+          "descricao": "Aquela que leva 3 dias para fazer e 2 segundos para sumir",
+          "ingredientes": {
+            "ingrediente": ["Corante azul", "Corante rosa", "Açúcar cristalizado", "Leite condensado fake"]
+          },
+          "preco": 5.00,
+          "calorias": 400
+        },
+        {
+          "nome": "Algodão Doce de Pote",
+          "descricao": "Aproximadamente 99% ar e 1% felicidade pegajosa",
+          "ingredientes": {
+            "ingrediente": ["Nuvens de açúcar", "Corante que mancha a língua", "Plástico difícil de abrir"]
+          },
+          "preco": 7.00,
+          "calorias": 300
+        },
+        {
+          "nome": "Pizza de Liquidificador",
+          "descricao": "Massa que parece um bolo e recheio de restos da geladeira",
+          "ingredientes": {
+            "ingrediente": ["Massa fofinha demais", "Presunto ralado", "Queijo que não derrete", "Orégano em excesso"]
+          },
+          "preco": 15.00,
+          "calorias": 1100
+        }
+      ]
+    }
+  }

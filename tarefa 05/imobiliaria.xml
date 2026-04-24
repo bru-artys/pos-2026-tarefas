@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<imobiliária xmlns="http://imobiliaria.org"            
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://imobiliaria.org imobiliaria.xsd">
+
+    <imovel>
+        <descricao>casa mal-assombrada por um fantasma educado</descricao>
+        <proprietario>
+            <nome>Gasparzinho das Neves</nome>
+            <email>gaspar.bu@cemiterio.com</email>
+            <telefone>(11) 6666-0000</telefone>
+            <telefone>(11) 99999-1234</telefone>
+        </proprietario>
+        <endereco>
+            <rua>rua do susto</rua>
+            <bairro>além-túmulo</bairro>
+            <cidade>vibe sombria</cidade>
+            <numero>13</numero>
+        </endereco>
+        <caracteristicas>
+            <tamanho>666.0</tamanho>
+            <numQuartos>3</numQuartos>
+            <numBanheiros>2</numBanheiros>
+        </caracteristicas>
+        <valor>10</valor>
+    </imovel>
+
+    <imovel>
+        <descricao>apartamento feito de gelatina de morango</descricao>
+        <proprietario>
+            <nome>Doutor Sobremesa</nome>
+            <telefone>(21) 1010-2020</telefone>
+        </proprietario>
+        <endereco>
+            <rua>avenida do açúcar</rua>
+            <bairro>confeitaria</bairro>
+            <cidade>rio de melado</cidade>
+            <numero>99</numero>
+        </endereco>
+        <caracteristicas>
+            <tamanho>45.0</tamanho>
+            <numQuartos>2</numQuartos>
+            <numBanheiros>1</numBanheiros>
+        </caracteristicas>
+        <valor>150</valor>
+    </imovel>
+
+    <imovel>
+        <descricao>mansão flutuante movida a base de memes</descricao>
+        <proprietario>
+            <nome>Elon Muskito</nome>
+            <email>foguentinho@marte.com</email>
+            <telefone>(31) 4002-8922</telefone>
+        </proprietario>
+        <endereco>
+            <rua>estrada da internet</rua>
+            <bairro>nuvem</bairro>
+            <cidade>skyline</cidade>
+            <numero>1</numero>
+        </endereco>
+        <caracteristicas>
+            <tamanho>5000.0</tamanho>
+            <numQuartos>4</numQuartos>
+            <numBanheiros>3</numBanheiros>
+        </caracteristicas>
+        <valor>99999999</valor>
+    </imovel>
+
+    <imovel>
+        <descricao>kitnet dentro de um sapato de palhaço</descricao>
+        <proprietario>
+            <nome>Bozo Minimalista</nome>
+            <telefone>(41) 98888-7777</telefone>
+        </proprietario>
+        <endereco>
+            <rua>rua do cadarço</rua>
+            <bairro>circo</bairro>
+            <cidade>curitiba do riso</cidade>
+            <numero>42</numero>
+        </endereco>
+        <caracteristicas>
+            <tamanho>12.5</tamanho>
+            <numQuartos>1</numQuartos>
+            <numBanheiros>1</numBanheiros>
+        </caracteristicas>
+        <valor>500</valor>
+    </imovel>
+
+    <imovel>
+        <descricao>casa de campo no meio do deserto do saara</descricao>
+        <proprietario>
+            <nome>Camelo Silva</nome>
+            <email>sede.muitasede@areia.com</email>
+            <telefone>(51) 0800-AGUA</telefone>
+        </proprietario>
+        <endereco>
+            <rua>rua da duna infinita</rua>
+            <bairro>calorão</bairro>
+            <cidade>egito gaúcho</cidade>
+        </endereco>
+        <caracteristicas>
+            <tamanho>1000.0</tamanho>
+            <numQuartos>3</numQuartos>
+            <numBanheiros>2</numBanheiros>
+        </caracteristicas>
+        <valor>5000</valor>
+    </imovel>
+
+</imobiliária>

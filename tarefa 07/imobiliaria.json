@@ -1,0 +1,103 @@
+{
+    "imobiliária": {
+      "imovel": [
+        {
+          "descricao": "Vulcão inativo com vista para o mar",
+          "proprietario": {
+            "nome": "Dr. Malvado",
+            "email": ["contato@imperiomundial.com"],
+            "telefone": ["(11) 0000-0000", "(11) 96666-6666"]
+          },
+          "endereco": {
+            "rua": "Cratera Principal",
+            "bairro": "Magma Alto",
+            "cidade": "Ilha Privada",
+            "numero": 1
+          },
+          "caracteristicas": {
+            "tamanho": 5000.0,
+            "numQuartos": 12,
+            "numBanheiros": 8
+          },
+          "valor": 99000000
+        },
+        {
+          "descricao": "Esconderijo em esgoto de luxo",
+          "proprietario": {
+            "nome": "Mestre dos Bueiros",
+            "telefone": ["(21) 99876-5432"]
+          },
+          "endereco": {
+            "rua": "Galeria B",
+            "bairro": "Subsolo",
+            "cidade": "Gotham City",
+            "numero": 66
+          },
+          "caracteristicas": {
+            "tamanho": 120.0,
+            "numQuartos": 2,
+            "numBanheiros": 1
+          },
+          "valor": 150000
+        },
+        {
+          "descricao": "Castelo gótico com neblina eterna",
+          "proprietario": {
+            "nome": "Conde das Trevas",
+            "email": ["sangue@noite.com"],
+            "telefone": ["(31) 3333-6666"]
+          },
+          "endereco": {
+            "rua": "Ladeira do Morcego",
+            "bairro": "Transilvânia Mineira",
+            "cidade": "Montanhas Sombrias",
+            "numero": 0
+          },
+          "caracteristicas": {
+            "tamanho": 2500.0,
+            "numQuartos": 20,
+            "numBanheiros": 5
+          },
+          "valor": 5500000
+        },
+        {
+          "descricao": "Laboratório secreto em garagem",
+          "proprietario": {
+            "nome": "Cientista Maluco do Bairro",
+            "telefone": ["(41) 3232-3232"]
+          },
+          "endereco": {
+            "rua": "Rua do Silêncio",
+            "bairro": "Vila Pacata",
+            "cidade": "Curitiba",
+            "numero": 404
+          },
+          "caracteristicas": {
+            "tamanho": 55.0,
+            "numQuartos": 1,
+            "numBanheiros": 1
+          },
+          "valor": 220000
+        },
+        {
+          "descricao": "Cabana isolada para planos maléficos",
+          "proprietario": {
+            "nome": "Eremita Vingativo",
+            "email": ["ninguem@meacha.com"],
+            "telefone": ["(51) 8888-8888"]
+          },
+          "endereco": {
+            "rua": "Estrada sem Saída",
+            "bairro": "Floresta Negra",
+            "cidade": "Serra Gaúcha"
+          },
+          "caracteristicas": {
+            "tamanho": 90.0,
+            "numQuartos": 2,
+            "numBanheiros": 2
+          },
+          "valor": 300000
+        }
+      ]
+    }
+  }

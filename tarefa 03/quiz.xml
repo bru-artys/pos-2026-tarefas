@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE quiz SYSTEM "quiz.dtd">
+
+<quiz versao="1.0">
+    <disciplina>Gastronomia de Boteco</disciplina>
+    <professor>
+        <nome>Edimilson Salgado</nome>
+        <matrícula>554433</matrícula>
+    </professor>
+    <turma>COX3-Tarde</turma>
+    <data>2026-04-24</data>
+    <questões>
+        <questão>
+            <enunciado>Qual é a forma correta de começar a comer uma coxinha?</enunciado>
+            <pontuação>2</pontuação>
+            <alternativas>
+                <alternativa correta="nao">Pela lateral, como um bárbaro</alternativa>
+                <alternativa correta="sim">Pela pontinha, para garantir a estrutura</alternativa>
+                <alternativa correta="nao">Desmontando com garfo e faca</alternativa>
+                <alternativa correta="nao">Sugando o recheio por um canudo</alternativa>
+            </alternativas>
+        </questão>
+        <questão>
+            <enunciado>Qual ingrediente é considerado polêmico no recheio?</enunciado>
+            <pontuação>2</pontuação>
+            <alternativas>
+                <alternativa correta="sim">Uva passa</alternativa>
+                <alternativa correta="nao">Frango desfiado</alternativa>
+                <alternativa correta="nao">Catupiry original</alternativa>
+                <alternativa correta="nao">Tempero verde</alternativa>
+            </alternativas>
+        </questão>
+        <questão>
+            <enunciado>Uma coxinha sem massa é tecnicamente o quê?</enunciado>
+            <pontuação>2</pontuação>
+            <alternativas>
+                <alternativa correta="nao">Um sonho de padaria</alternativa>
+                <alternativa correta="sim">Um crime contra a culinária (ou um bolinho de frango)</alternativa>
+                <alternativa correta="nao">Uma omelete gourmet</alternativa>
+                <alternativa correta="nao">Um nugget gigante</alternativa>
+            </alternativas>
+        </questão>
+        <questão>
+            <enunciado>O que define uma coxinha de "estufa de rodoviária"?</enunciado>
+            <pontuação>2</pontuação>
+            <alternativas>
+                <alternativa correta="nao">O uso de azeite trufado</alternativa>
+                <alternativa correta="nao">A temperatura de 5 graus</alternativa>
+                <alternativa correta="sim">O couro crocante que resiste ao tempo e ao espaço</alternativa>
+                <alternativa correta="nao">A presença de um chef francês</alternativa>
+            </alternativas>
+        </questão>
+        <questão>
+            <enunciado>Qual o melhor acompanhamento para uma coxinha de R$ 2,00?</enunciado>
+            <pontuação>2</pontuação>
+            <alternativas>
+                <alternativa correta="nao">Vinho tinto seco</alternativa>
+                <alternativa correta="sim">Refresco de cor duvidosa</alternativa>
+                <alternativa correta="nao">Água mineral com gás e limão</alternativa>
+                <alternativa correta="nao">Chá de camomila</alternativa>
+            </alternativas>
+        </questão>
+    </questões>
+</quiz>

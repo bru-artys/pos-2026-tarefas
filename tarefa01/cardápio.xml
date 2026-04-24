@@ -2,12 +2,7 @@
 <!DOCTYPE cardapio SYSTEM "definicoes.dtd">
 
 
-
-
     <cardapio>
-
-
-
 
         <prato id="p001">
             <nome>arroz de leite com paçoca</nome>
@@ -22,9 +17,6 @@
             <tempoPreparo>30 min</tempoPreparo>
         </prato>
 
-
-
-
         <prato id="p002">
             <nome>bolo de ovos</nome>
             <descricao>um bolo tradicional de ovos</descricao>
@@ -38,10 +30,6 @@
             <calorias>900</calorias>
             <tempoPreparo>30 min</tempoPreparo>
         </prato>
-
-
-
-
         <prato id="p003">
             <nome>bolo de chocolate</nome>
             <descricao>um bolo tradicional de chocolate</descricao>
@@ -56,9 +44,6 @@
             <calorias>900</calorias>
             <tempoPreparo>30 min</tempoPreparo>
         </prato>
-
-
-
 
         <prato id="p004">
             <nome>tapioca com coco</nome>

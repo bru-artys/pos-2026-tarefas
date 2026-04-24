@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz versao="1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="quiz.xsd">
+
+    <disciplina>Cronodinâmica Aplicada</disciplina>
+    <professor>
+        <nome>Dr. Emmett Brown</nome>
+        <matrícula>88MPH</matrícula>
+    </professor>
+    <turma>DELOREAN-2026</turma>
+    <data>1985-10-26</data>
+    <questões>
+        <questão>
+            <enunciado>O que acontece se você encontrar você mesmo no passado?</enunciado>
+            <pontuação>2</pontuação>
+            <alternativas>
+                <alternativa correta="nao">Vocês tiram uma selfie para o Instagram</alternativa>
+                <alternativa correta="sim">O continuum espaço-tempo pode entrar em colapso</alternativa>
+                <alternativa correta="nao">Vocês jogam um par ou ímpar</alternativa>
+                <alternativa correta="nao">Nada, você apenas ganha um clone grátis</alternativa>
+            </alternativas>
+        </questão>
+        <questão>
+            <enunciado>Qual o perigo de esmagar uma borboleta no período Jurássico?</enunciado>
+            <pontuação>2</pontuação>
+            <alternativas>
+                <alternativa correta="nao">O Ibama pré-histórico vai te multar</alternativa>
+                <alternativa correta="nao">Você fica com o sapato sujo</alternativa>
+                <alternativa correta="sim">Você volta e o seu chefe é um dinossauro</alternativa>
+                <alternativa correta="nao">As borboletas entram em extinção mais cedo</alternativa>
+            </alternativas>
+        </questão>
+        <questão>
+            <enunciado>Ao viajar para a Idade Média, qual item é proibido levar?</enunciado>
+            <pontuação>2</pontuação>
+            <alternativas>
+                <alternativa correta="nao">Uma escova de dentes</alternativa>
+                <alternativa correta="sim">Um iPhone (vão achar que é bruxaria)</alternativa>
+                <alternativa correta="nao">Uma armadura de papelão</alternativa>
+                <alternativa correta="nao">Um dicionário de latim</alternativa>
+            </alternativas>
+        </questão>
+        <questão>
+            <enunciado>Qual a velocidade necessária para o salto temporal?</enunciado>
+            <pontuação>2</pontuação>
+            <alternativas>
+                <alternativa correta="nao">10 km/h (marcha ré)</alternativa>
+                <alternativa correta="nao">A velocidade do som</alternativa>
+                <alternativa correta="sim">88 milhas por hora</alternativa>

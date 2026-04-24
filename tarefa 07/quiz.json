@@ -1,0 +1,76 @@
+{
+    "quiz": {
+      "versao": "1.0",
+      "disciplina": "Defesa Planetária",
+      "professor": {
+        "nome": "Agente K",
+        "matrícula": "007-MIB"
+      },
+      "turma": "TERRA-VIVA-42",
+      "data": "2026-04-01",
+      "questões": {
+        "questão": [
+          {
+            "enunciado": "Se um disco voador estacionar no seu quintal, qual é a primeira regra?",
+            "pontuação": 2,
+            "alternativas": {
+              "alternativa": [
+                { "texto": "Pedir para tirar uma selfie com o capitão", "correta": "nao" },
+                { "texto": "Não entrar na luz brilhante (é assim que eles te pegam)", "correta": "sim" },
+                { "texto": "Oferecer um café e um pão de queijo", "correta": "nao" },
+                { "texto": "Tentar vender um plano de saúde", "correta": "nao" }
+              ]
+            }
+          },
+          {
+            "enunciado": "Qual objeto doméstico é mais eficaz para repelir sinais extraterrestres?",
+            "pontuação": 2,
+            "alternativas": {
+              "alternativa": [
+                { "texto": "Chapéu de papel de alumínio", "correta": "sim" },
+                { "texto": "Um escorredor de macarrão", "correta": "nao" },
+                { "texto": "Controle remoto da TV", "correta": "nao" },
+                { "texto": "Uma raquete de matar mosquito", "correta": "nao" }
+              ]
+            }
+          },
+          {
+            "enunciado": "Como os alienígenas costumam se comunicar em filmes de baixo orçamento?",
+            "pontuação": 2,
+            "alternativas": {
+              "alternativa": [
+                { "texto": "Através de sinais de fumaça colorida", "correta": "nao" },
+                { "texto": "Telepatia com sotaque britânico", "correta": "sim" },
+                { "texto": "Mandando áudios de 5 minutos no WhatsApp", "correta": "nao" },
+                { "texto": "Usando apenas emojis de frutas", "correta": "nao" }
+              ]
+            }
+          },
+          {
+            "enunciado": "Qual destes é o disfarce mais comum de um alienígena na Terra?",
+            "pontuação": 2,
+            "alternativas": {
+              "alternativa": [
+                { "texto": "Um pombo de praça", "correta": "nao" },
+                { "texto": "Um vaso de samambaia plástica", "correta": "nao" },
+                { "texto": "O seu gato (estão sempre observando)", "correta": "sim" },
+                { "texto": "Um cone de trânsito", "correta": "nao" }
+              ]
+            }
+          },
+          {
+            "enunciado": "O que fazer se eles disserem 'Leve-me ao seu líder'?",
+            "pontuação": 2,
+            "alternativas": {
+              "alternativa": [
+                { "texto": "Levar até o síndico do prédio", "correta": "nao" },
+                { "texto": "Dizer que o líder está de férias e você está no comando", "correta": "sim" },
+                { "texto": "Mostrar o perfil de um influenciador famoso", "correta": "nao" },
+                { "texto": "Dar o endereço de uma pizzaria 24h", "correta": "nao" }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }

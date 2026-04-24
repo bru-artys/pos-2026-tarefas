@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE imobiliaria [
+<!ELEMENT imobiliaria (imovel+)>
+<!ELEMENT imovel (descricao, proprietario, endereco, caracteristicas, valor)>
+<!ELEMENT descricao (#PCDATA)>
+<!ELEMENT proprietario (nome, (email|telefone)+)>    
+<!ELEMENT nome (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT telefone (#PCDATA)>
+<!ELEMENT endereco (rua, bairro, cidade, número?)>
+<!ELEMENT rua (#PCDATA)>
+<!ELEMENT bairro (#PCDATA)>
+<!ELEMENT cidade (#PCDATA)>
+<!ELEMENT número (#PCDATA)>
+<!ELEMENT caracteristicas (tamanho, numQuartos, numBanheiros)>
+<!ELEMENT tamanho (#PCDATA)>
+<!ELEMENT numQuartos (#PCDATA)>
+<!ELEMENT numBanheiros (#PCDATA)>
+<!ELEMENT valor (#PCDATA)>
+]>
+
+<imobiliaria>
+    <imovel>
+        <descricao>bungalow minimalista</descricao>
+        <proprietario>
+            <nome>Arthur Dent</nome>
+            <email>arthur.dent@galaxia.com</email>
+            <telefone>(11) 91234-5678</telefone>
+            <telefone>(11) 98765-4321</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Alameda dos Anéis</rua>
+            <bairro>Setor Espacial</bairro>
+            <cidade>Nova Asgard</cidade>
+            <número>42</número>
+        </endereco>
+        <caracteristicas>
+            <tamanho>120</tamanho>
+            <numQuartos>2</numQuartos>
+            <numBanheiros>1</numBanheiros>
+        </caracteristicas>
+        <valor>280000</valor>
+    </imovel>
+
+    <imovel>
+        <descricao>loft industrial</descricao>
+        <proprietario>
+            <nome>Bruce Wayne</nome>
+            <telefone>(21) 3344-5566</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Avenida da Justiça</rua>
+            <bairro>Centro Administrativo</bairro>
+            <cidade>Metropolis</cidade>
+            <número>101</número>
+        </endereco>
+        <caracteristicas>
+            <tamanho>95</tamanho>
+            <numQuartos>1</numQuartos>
+            <numBanheiros>2</numBanheiros>
+        </caracteristicas>
+        <valor>850000</valor>
+    </imovel>
+
+    <imovel>
+        <descricao>mansao com heliponto</descricao>
+        <proprietario>
+            <nome>Diana Prince</nome>
+            <email>diana.amazona@email.com</email>
+            <telefone>(31) 7777-8888</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Travessa das Ilhas</rua>
+            <bairro>Paraíso</bairro>
+            <cidade>Themyscira</cidade>
+            <número>7</número>
+        </endereco>
+        <caracteristicas>
+            <tamanho>1500</tamanho>
+            <numQuartos>8</numQuartos>
+            <numBanheiros>12</numBanheiros>
+        </caracteristicas>
+        <valor>15000000</valor>
+    </imovel>
+
+    <imovel>
+        <descricao>studio tecnologico</descricao>
+        <proprietario>
+            <nome>Tony Stark</nome>
+            <telefone>(41) 3030-4040</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Rua da Torre</rua>
+            <bairro>Inovação</bairro>
+            <cidade>Malibu</cidade>
+            <número>1000</número>
+        </endereco>
+        <caracteristicas>
+            <tamanho>60</tamanho>
+            <numQuartos>1</numQuartos>
+            <numBanheiros>1</numBanheiros>
+        </caracteristicas>
+        <valor>900000</valor>
+    </imovel>
+
+    <imovel>
+        <descricao>cabana de inverno</descricao>
+        <proprietario>
+            <nome>Jon Snow</nome>
+            <email>jon.muralha@email.com</email>
+            <telefone>(51) 1111-0000</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Caminho do Gelo</rua>
+            <bairro>Norte Distante</bairro>
+            <cidade>Winterfell</cidade>
+        </endereco>
+        <caracteristicas>
+            <tamanho>250</tamanho>
+            <numQuartos>4</numQuartos>
+            <numBanheiros>3</numBanheiros>
+        </caracteristicas>
+        <valor>550000</valor>
+    </imovel>
+</imobiliaria>

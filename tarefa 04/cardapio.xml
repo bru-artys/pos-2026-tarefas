@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cardapio xmlns="http://cardapio.org" 
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://cardapio.org cardapio.xsd">
+
+    <prato>
+        <nome>coxinha de rodoviária</nome>
+        <descricao>aquecida desde 1998 na estufa de vidro embaçado</descricao>
+        <ingredientes>
+            <ingrediente>massa de puro trigo</ingrediente>
+            <ingrediente>frango misterioso</ingrediente>
+            <ingrediente>óleo reutilizado</ingrediente>
+            <ingrediente>muita coragem</ingrediente>
+        </ingredientes>
+        <preco>5.00</preco>
+        <calorias>1200</calorias>
+    </prato>
+
+    <prato>
+        <nome>enroladinho de vento</nome>
+        <descricao>massa folhada recheada com vácuo e esperança</descricao>
+        <ingredientes>
+            <ingrediente>massa folhada</ingrediente>
+            <ingrediente>ar medicinal</ingrediente>
+            <ingrediente>cheiro de presunto</ingrediente>
+        </ingredientes>
+        <preco>4.50</preco>
+        <calorias>50</calorias>
+    </prato>
+
+    <prato>
+        <nome>kibe de concreto</nome>
+        <descricao>tão resistente que pode ser usado em obras civis</descricao>
+        <ingredientes>
+            <ingrediente>trigo para kibe</ingrediente>
+            <ingrediente>pedregulhos selecionados</ingrediente>
+            <ingrediente>hortelã murcha</ingrediente>
+        </ingredientes>
+        <preco>6.00</preco>
+        <calorias>750</calorias>
+    </prato>
+
+    <prato>
+        <nome>suco de cor estranha</nome>
+        <descricao>refresco radioativo que brilha no escuro</descricao>
+        <ingredientes>
+            <ingrediente>água da torneira</ingrediente>
+            <ingrediente>corante 40</ingrediente>
+            <ingrediente>açúcar infinito</ingrediente>
+        </ingredientes>
+        <preco>2.00</preco>
+        <calorias>300</calorias>
+    </prato>
+
+</cardapio>

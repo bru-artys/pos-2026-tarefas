@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cardapio>
+
+    <prato>
+        <nome>Risoto de Cogumelos</nome>
+        <descricao>Risoto cremoso de arroz arbóreo com mix de cogumelos frescos e azeite de trufas</descricao>
+        <ingredientes>
+            <ingrediente>Arroz Arbóreo</ingrediente>
+            <ingrediente>Cogumelo Paris</ingrediente>
+            <ingrediente>Shimeji</ingrediente>
+            <ingrediente>Queijo Parmesão</ingrediente>
+            <ingrediente>Vinho Branco</ingrediente>
+        </ingredientes>
+        <preco>45.00</preco>
+        <calorias>550</calorias>
+    </prato>
+
+    <prato>
+        <nome>Petit Gâteau de Doce de Leite</nome>
+        <descricao>Bolinho quente de doce de leite com recheio cremoso e sorvete de baunilha</descricao>
+        <ingredientes>
+            <ingrediente>Doce de Leite</ingrediente>
+            <ingrediente>Ovos</ingrediente>
+            <ingrediente>Manteiga</ingrediente>
+            <ingrediente>Sorvete de Baunilha</ingrediente>
+        </ingredientes>
+        <preco>18.00</preco>
+        <calorias>450</calorias>
+    </prato>
+
+    <prato>
+        <nome>Cheesecake de Frutas Vermelhas</nome>
+        <descricao>Torta de cream cheese suave com calda artesanal de morango, amora e framboesa</descricao>
+        <ingredientes>
+            <ingrediente>Cream Cheese</ingrediente>
+            <ingrediente>Biscoito Maizena</ingrediente>
+            <ingrediente>Coulis de Frutas Vermelhas</ingrediente>
+        </ingredientes>
+        <preco>15.00</preco>
+        <calorias>380</calorias>
+    </prato>
+
+    <prato>
+        <nome>Salmão Grelhado</nome>
+        <descricao>Posta de salmão grelhada acompanhada de purê de mandioquinha e aspargos</descricao>
+        <ingredientes>
+            <ingrediente>Filé de Salmão</ingrediente>
+            <ingrediente>Mandioquinha</ingrediente>
+            <ingrediente>Aspargos Frescos</ingrediente>
+            <ingrediente>Manteiga de Ervas</ingrediente>
+        </ingredientes>
+        <preco>65.00</preco>
+        <calorias>420</calorias>
+    </prato>
+
+</cardapio>

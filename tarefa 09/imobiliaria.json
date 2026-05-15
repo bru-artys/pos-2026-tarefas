@@ -1,0 +1,117 @@
+{
+  "biblioteca": {
+    "livros": [
+      {
+        "descricao": "romance historico ambientado no seculo XIX",
+        "localizacao": {
+          "corredor": "A",
+          "prateleira": "3",
+          "secao": "literatura brasileira",
+          "andar": "terreo"
+        },
+        "autor": {
+          "nome": "luciana ferraz",
+          "email": "luciana.ferraz@email.com",
+          "telefones": [
+            "(11) 3321-4400",
+            "(11) 99812-0055"
+          ]
+        },
+        "detalhes": {
+          "paginas": "320",
+          "numEdicao": "2",
+          "numExemplares": "4"
+        },
+        "preco": "89.90"
+      },
+      {
+        "descricao": "guia completo de programacao em python",
+        "localizacao": {
+          "corredor": "C",
+          "prateleira": "7",
+          "secao": "tecnologia",
+          "andar": "primeiro"
+        },
+        "autor": {
+          "nome": "roberto lima",
+          "email": null,
+          "telefones": [
+            "(21) 3030-1122"
+          ]
+        },
+        "detalhes": {
+          "paginas": "540",
+          "numEdicao": "5",
+          "numExemplares": "8"
+        },
+        "preco": "149.90"
+      },
+      {
+        "descricao": "colecao de contos fantasticos",
+        "localizacao": {
+          "corredor": "B",
+          "prateleira": "1",
+          "secao": "ficcao cientifica",
+          "andar": "terreo"
+        },
+        "autor": {
+          "nome": "patricia souza",
+          "email": "patricia.souza@email.com",
+          "telefones": [
+            "(31) 2211-6677"
+          ]
+        },
+        "detalhes": {
+          "paginas": "210",
+          "numEdicao": "1",
+          "numExemplares": "3"
+        },
+        "preco": "59.90"
+      },
+      {
+        "descricao": "introducao a filosofia moderna",
+        "localizacao": {
+          "corredor": "D",
+          "prateleira": "2",
+          "secao": "filosofia",
+          "andar": "segundo"
+        },
+        "autor": {
+          "nome": "marcos andrade",
+          "email": null,
+          "telefones": [
+            "(41) 5544-8899"
+          ]
+        },
+        "detalhes": {
+          "paginas": "390",
+          "numEdicao": "3",
+          "numExemplares": "2"
+        },
+        "preco": "110.00"
+      },
+      {
+        "descricao": "atlas geografico mundial ilustrado",
+        "localizacao": {
+          "corredor": "E",
+          "prateleira": "5",
+          "secao": "geografia",
+          "andar": "segundo"
+        },
+        "autor": {
+          "nome": "beatriz nunes",
+          "email": "beatriz.nunes@email.com",
+          "telefones": [
+            "(51) 7788-3344"
+          ]
+        },
+        "detalhes": {
+          "paginas": "480",
+          "numEdicao": "4",
+          "numExemplares": "6"
+        },
+        "preco": "220.00"
+      }
+    ]
+  }
+}

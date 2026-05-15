@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+    <livro>
+        <descricao>romance historico ambientado no seculo XIX</descricao>
+        <autor>
+            <nome>luciana ferraz</nome>
+            <email>luciana.ferraz@email.com</email>
+            <telefone>(11) 3321-4400</telefone>
+            <telefone>(11) 99812-0055</telefone>
+        </autor>
+        <localizacao>
+            <corredor>A</corredor>
+            <prateleira>3</prateleira>
+            <secao>literatura brasileira</secao>
+            <andar>terreo</andar>
+        </localizacao>
+        <detalhes>
+            <paginas>320</paginas>
+            <numEdicao>2</numEdicao>
+            <numExemplares>4</numExemplares>
+        </detalhes>
+        <preco>89.90</preco>
+    </livro>
+    <livro>
+        <descricao>guia completo de programacao em python</descricao>
+        <autor>
+            <nome>roberto lima</nome>
+            <telefone>(21) 3030-1122</telefone>
+        </autor>
+        <localizacao>
+            <corredor>C</corredor>
+            <prateleira>7</prateleira>
+            <secao>tecnologia</secao>
+            <andar>primeiro</andar>
+        </localizacao>
+        <detalhes>
+            <paginas>540</paginas>
+            <numEdicao>5</numEdicao>
+            <numExemplares>8</numExemplares>
+        </detalhes>
+        <preco>149.90</preco>
+    </livro>
+    <livro>
+        <descricao>colecao de contos fantasticos</descricao>
+        <autor>
+            <nome>patricia souza</nome>
+            <email>patricia.souza@email.com</email>
+            <telefone>(31) 2211-6677</telefone>
+        </autor>
+        <localizacao>
+            <corredor>B</corredor>
+            <prateleira>1</prateleira>
+            <secao>ficcao cientifica</secao>
+            <andar>terreo</andar>
+        </localizacao>
+        <detalhes>
+            <paginas>210</paginas>
+            <numEdicao>1</numEdicao>
+            <numExemplares>3</numExemplares>
+        </detalhes>
+        <preco>59.90</preco>
+    </livro>
+    <livro>
+        <descricao>introducao a filosofia moderna</descricao>
+        <autor>
+            <nome>marcos andrade</nome>
+            <telefone>(41) 5544-8899</telefone>
+        </autor>
+        <localizacao>
+            <corredor>D</corredor>
+            <prateleira>2</prateleira>
+            <secao>filosofia</secao>
+            <andar>segundo</andar>
+        </localizacao>
+        <detalhes>
+            <paginas>390</paginas>
+            <numEdicao>3</numEdicao>
+            <numExemplares>2</numExemplares>
+        </detalhes>
+        <preco>110.00</preco>
+    </livro>
+    <livro>
+        <descricao>atlas geografico mundial ilustrado</descricao>
+        <autor>
+            <nome>beatriz nunes</nome>
+            <email>beatriz.nunes@email.com</email>
+            <telefone>(51) 7788-3344</telefone>
+        </autor>
+        <localizacao>
+            <corredor>E</corredor>
+            <prateleira>5</prateleira>
+            <secao>geografia</secao>
+            <andar>segundo</andar>
+        </localizacao>
+        <detalhes>
+            <paginas>480</paginas>
+            <numEdicao>4</numEdicao>
+            <numExemplares>6</numExemplares>
+        </detalhes>
+        <preco>220.00</preco>
+    </livro>
+</biblioteca>
